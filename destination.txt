@@ -1,0 +1,2 @@
+To-jest-testowy-plik-tekstowy.
+Zastąpimy-wszystkie-spacje-myślnikami.
